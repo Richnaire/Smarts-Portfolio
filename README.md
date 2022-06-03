@@ -3,13 +3,13 @@
 ## Project 1: Sales Data Query in EXCEL
 This project was done as my first capstone project when i was interning with SIDE HUSTLE as a Data Analysts.
 
-The project engaged my knowlege of **Functions, Text formatting, and Worksheet formatting in Excel.
+1. The project engaged my knowlege of **Functions, Text formatting, and Worksheet formatting in Excel.
 
-I made use of the If, Count, Countifs, VlookUp, Left, Right, Middle, Statistical function (like Average, Standard Deviation, Minimum, Maximum) in order to derive the outliers in the Sales Dataset. 
+2. I made use of the If, Count, Countifs, VlookUp, Left, Right, Middle, Statistical function (like Average, Standard Deviation, Minimum, Maximum) in order to derive the outliers in the Sales Dataset. 
 
-I also employed my knowlege of Worksheet Formatting to ensure a neat and beautiful work presentation. 
+3. I also employed my knowlege of Worksheet Formatting to ensure a neat and beautiful work presentation. 
 
-This Datasets were gotten from Kaggle.
+4. This Datasets were gotten from Kaggle.
 
 The below are the questions I answered. 
 
