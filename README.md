@@ -1,9 +1,9 @@
 # Smarts-Portfolio
 
-## Project 1 Sales Data Query
+## Project 1: Sales Data Query in EXCEL
 This project was done as my first capstone project when i was interning with SIDE HUSTLE as a Data Analysts.
 
-The project engaged my knowlege of Functions, Text formatting, and Worksheet formatting in excel.
+The project engaged my knowlege of **Functions, Text formatting, and Worksheet formatting in Excel.
 
 I made use of the If, Count, Countifs, VlookUp, Left, Right, Middle, Statistical function (like Average, Standard Deviation, Minimum, Maximum) in order to derive the outliers in the Sales Dataset. 
 
