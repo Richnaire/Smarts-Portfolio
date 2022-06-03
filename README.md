@@ -30,21 +30,21 @@ Using Sales Data 1
 
 Use dataset 1 for the following:
 
-1) Is there an outlier in the Sales recorded ($)? (Show your procedures)
-2) On a new sheet,
-a) Generate top 20 highest Sales, then use VLOOKUP to generate their respective item number id, Average Inventory on Hand ($), In-Stock % and Week ID.
-b) What is the average sales for the top 20 highest Sales?
-3) On a new sheet,
-a) Generate top 20 lowest Sales, then use VLOOKUP to generate their respective item number id, Average Inventory on Hand ($), In-Stock % and Week ID.
-b) What is the average sales for the top 20 lowest Sales?
+1. Is there an outlier in the Sales recorded ($)? (Show your procedures)
+2. On a new sheet,
+a. Generate top 20 highest Sales, then use VLOOKUP to generate their respective item number id, Average Inventory on Hand ($), In-Stock % and Week ID.
+b. What is the average sales for the top 20 highest Sales?
+3. On a new sheet,
+a. Generate top 20 lowest Sales, then use VLOOKUP to generate their respective item number id, Average Inventory on Hand ($), In-Stock % and Week ID.
+b. What is the average sales for the top 20 lowest Sales?
  
  
 **Question 3**
 
 Use dataset 2 for the following:
 
-1) Create a new column to know if a course is free or paid, note; if price is 0,then the course is free, otherwise its paid.
-2) What is the price, number of subscribers, number of reviews, number of lectures, level, rating, content duration, subject, free or paid for the following course titles: FOREX: From Zero To Hero Forex Trading Masterclass - Learn To Trade Better Aprenda a Investir seu Dinheiro Visualizing Data CPA 10 COMPLETO Innovators and innovation: Travel through time! Intermediate Accounting 1: Easy. Fast. Simple! Numeracy skills in business and everyday life:Think and Deal Learn the Forex Naked Price Action Pogo Trade Rails Ecommerce App with HTML Template from Themeforest ASP.NET MVC 5 Project - Facebook Clone Creating Custom Web Maps Learn Reactivex From Ground Up Introduction to web programming for GIS applications Learn Web Animation the Easy Way: An Intro to SVG and GSAP Introduction to QGIS Python Programming PHP Specialist (2017 Edition) HTML/CSS Bootcamp 
+1. Create a new column to know if a course is free or paid, note; if price is 0,then the course is free, otherwise its paid.
+2. What is the price, number of subscribers, number of reviews, number of lectures, level, rating, content duration, subject, free or paid for the following course titles: FOREX: From Zero To Hero Forex Trading Masterclass - Learn To Trade Better Aprenda a Investir seu Dinheiro Visualizing Data CPA 10 COMPLETO Innovators and innovation: Travel through time! Intermediate Accounting 1: Easy. Fast. Simple! Numeracy skills in business and everyday life:Think and Deal Learn the Forex Naked Price Action Pogo Trade Rails Ecommerce App with HTML Template from Themeforest ASP.NET MVC 5 Project - Facebook Clone Creating Custom Web Maps Learn Reactivex From Ground Up Introduction to web programming for GIS applications Learn Web Animation the Easy Way: An Intro to SVG and GSAP Introduction to QGIS Python Programming PHP Specialist (2017 Edition) HTML/CSS Bootcamp 
  
 
 ![image](https://user-images.githubusercontent.com/68339249/171917089-8dc2c737-cb54-4b90-a92f-52176f510c76.png)
