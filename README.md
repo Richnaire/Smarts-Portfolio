@@ -1,11 +1,16 @@
-# Smarts-Portfolio
+## Smarts-Portfolio
 
 # Project 1 Sales Data Query
-This project was done as my first capstone project when i was interning with SIDE HUSTLE as a Data Analysts
-The project engaged my knowlege of #Functions and Text formatting in excel.
+This project was done as my first capstone project when i was interning with SIDE HUSTLE as a Data Analysts.
+
+The project engaged my knowlege of Functions, Text formatting, and Worksheet formatting in excel.
+
 I made use of the If, Count, Countifs, VlookUp, Left, Right, Middle, Statistical function (like Average, Standard Deviation, Minimum, Maximum) in order to derive the outliers in the Sales Dataset. 
+
 I also employed my knowlege of Worksheet Formatting to ensure a neat and beautiful work presentation. 
-This Dataset was gottenf from Kaggle.
+
+This Datasets were gotten from Kaggle.
+
 The below are the questions I answered. 
 
 
@@ -17,6 +22,7 @@ Using Sales Data 1
 4. For the customers names in (question 2), split it to first and last name (dont use flash fill and text to column)
 5. Find the total sales for each of the Ship modes
 6. Find the average sales for each of the Regions
+
  
 **Question 2**
 Use dataset 1 for the following:
@@ -28,6 +34,7 @@ b) What is the average sales for the top 20 highest Sales?
 a) Generate top 20 lowest Sales, then use VLOOKUP to generate their respective item number id, Average Inventory on Hand ($), In-Stock % and Week ID.
 b) What is the average sales for the top 20 lowest Sales?
  
+ 
 **Question 3**
 Use dataset 2 for the following:
 1) Create a new column to know if a course is free or paid, note; if price is 0,then the course is free, otherwise its paid.
